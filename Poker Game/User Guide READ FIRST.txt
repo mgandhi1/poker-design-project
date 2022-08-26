@@ -1,0 +1,25 @@
+Text-based Poker
+Creators: Arya Nistane and Milan Gandhi
+
+User Guide: 
+Welcome to our game of Poker. First, if you are not familiar with the game of poker, we suggest you review these resources:: 
+
+Video: https://youtu.be/GAoR9ji8D6A
+Article: https://www.pokerstarsnj.com/poker/games/rules/  
+
+When you initialize our game, you will see several lines pop up in the console. 
+These are the starting amounts, small and big blinds, and the players and their money. 
+You start the first game with $1000 each. Our game is pass and play: When it is your turn, 
+you will be able to see all the necessary information. 
+You will see your name, your hand, your money, how much money you have bet that round, 
+if you are allowed to check, and the call amount (minimum amount you need to bet to stay in the game), 
+as well as the money and bets of all other players that are still in the game. 
+You can choose the turn option of your choice (Call, Raise, Check, or Fold), 
+and the amount, if raising. Subsequent players will execute their turns. At the end of 
+each game, the game will evaluate 
+and the last player standing wins the game. 
+
+After opening the code, follow the directions in the "Poker_Tester" file.
+
+
+Have fun!
